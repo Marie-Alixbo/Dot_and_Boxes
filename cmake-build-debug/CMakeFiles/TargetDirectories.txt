@@ -1,0 +1,3 @@
+/Users/marie-alixbobrich/CLionProjects/Dot_and_Boxes/cmake-build-debug/CMakeFiles/Dot_and_Boxes.dir
+/Users/marie-alixbobrich/CLionProjects/Dot_and_Boxes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marie-alixbobrich/CLionProjects/Dot_and_Boxes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

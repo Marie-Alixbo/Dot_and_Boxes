@@ -1,0 +1,5 @@
+# ninja log v5
+0	534	1699261516550519487	CMakeFiles/Dot_and_Boxes.dir/main.cpp.o	4f0a74cc738bf9cb
+2	555	1699261582554329049	CMakeFiles/Dot_and_Boxes.dir/game.cpp.o	5419873cfc741ce2
+3	573	1699261582573197801	CMakeFiles/Dot_and_Boxes.dir/grid.cpp.o	6dce03188fdd5473
+574	693	1699261582691205620	Dot_and_Boxes	79852e6bc5837099
